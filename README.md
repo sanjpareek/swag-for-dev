@@ -1,7 +1,7 @@
 # swag-for-dev
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Build Status](https://travis-ci.org/swapagarwal/swag-for-dev.svg?branch=master)](https://travis-ci.org/swapagarwal/swag-for-dev)
+[![Build Status](https://github.com/swapagarwal/swag-for-dev/workflows/.github/workflows/main.yml/badge.svg)](https://github.com/swapagarwal/swag-for-dev/actions)
 [![Greenkeeper badge](https://badges.greenkeeper.io/swapagarwal/swag-for-dev.svg)](https://greenkeeper.io/)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 [![open issues](https://img.shields.io/github/issues/swapagarwal/swag-for-dev.svg)](https://github.com/swapagarwal/swag-for-dev/issues?q=is%3Aopen+is%3Aissue)
